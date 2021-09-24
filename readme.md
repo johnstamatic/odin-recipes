@@ -1,1 +1,1 @@
-The website will consist of a main index page which will have links to a few recipes.
+The odin-recipes website has been completed as the first project from the Odin Project. The site consists of a main index page with links to three recipes. The theme of the website is "Recipes from Hawaii".
