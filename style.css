@@ -1,0 +1,41 @@
+/* style.css */
+
+h1 {
+    text-align: center;
+    color: rgb(9, 9, 12);
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+#chili {
+    color: red;
+}
+#shoyu {
+    color: saddlebrown;
+}
+#spam {
+    color:darkblue
+}
+body.napali {
+    background: url("images/napali.jpeg") no-repeat center center fixed; 
+}
+ul.front_page {
+    text-align: center;
+    list-style: inside;
+    font-size: 24px;
+}
+ul, ol, p {
+    font-size: 20px;
+}
+.water {
+    background-color: khaki;
+}
+.chicken {
+    background-color: lightblue;
+}
+.musubi {
+    background-color: rgb(82, 231, 231);
+}
